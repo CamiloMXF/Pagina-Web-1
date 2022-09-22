@@ -1,0 +1,52 @@
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.staticwebassets.runtime.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.exe
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.deps.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.runtimeconfig.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.pdb
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.AssemblyInfo.cs
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Frontend.styles.css
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Frontend.bundle.scp.css
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\refint\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.pdb
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.genruntimeconfig.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App\Taller.App.Frontend\obj\Debug\net6.0\ref\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\appsettings.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.staticwebassets.runtime.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.exe
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.deps.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.runtimeconfig.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\bin\Debug\net6.0\Taller.App.Frontend.pdb
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.AssemblyInfo.cs
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Frontend.styles.css
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Frontend.bundle.scp.css
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\refint\Taller.App.Frontend.dll
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.pdb
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\Taller.App.Frontend.genruntimeconfig.cache
+C:\Users\CAMILO\Documents\NetBeansProjects\html\Taller.App - copia\Taller.App.Frontend\obj\Debug\net6.0\ref\Taller.App.Frontend.dll

@@ -1,0 +1,87 @@
+﻿*{
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Gotham;
+  src: url(GothamBold.ttf);
+}
+body {
+  font-family: Gotham ;
+ 
+  background-size: cover;
+  
+
+}
+.header{
+  background-color: #0b0b0b00 ;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.header{
+  padding-top: 8px;
+
+  background-size: cover;
+
+}
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+.logo {
+  font-size: 38px;
+  padding: 2px;
+  padding-left: 30px;
+  line-height: 40px;
+
+}
+.nav-menu {
+  display: flex;
+  list-style: none;
+
+}
+.nav-menu-item {
+  display: flex;
+  list-style: none;
+  width: 100%;
+}
+.nav-menu-item {
+  padding: 8px;
+  line-height: 40px;
+}
+/*.nav-menu-link1{
+
+  padding-top: 24px;
+}
+*/
+
+
+
+.container-fluid {
+  backdrop-filter: blur(8px);
+  padding-top: 4px;
+  padding-right: 5px;
+  padding-left: 30px;
+  padding-bottom: 15px;
+  margin-top: 60px;
+  margin-right: 20px;
+  margin-right: auto;
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  width: 40rem;
+  height: 20rem;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+
+  overflow: hidden;}
+
+.titulo {
+
+  color: #3463e2;
+}
+.campos {
+  color: black;
+}

@@ -1,0 +1,54 @@
+﻿@page
+@model Taller.App.Frontend.Pages.Login_usuarioModel
+@{
+}
+  <section class="registro" id="seleccion" onchange="ShowSelected();">
+    <h1 class="titulo">Formulario Registro</h1>
+    <div>
+      <div class="row">
+        <div class="col">
+          <a>Antes de continuar, elige tu rol <select class="form-select" aria-label="Default select example">
+            <option selected id="seleccion" onchange="ShowSelected();">Who you are?</option>
+            <option value="1">Cliente</option>
+            <option value="2">Mecanico</option>
+            <option value="3">Supervisor</option>
+          </select></a>
+          <input class="campos" type="text" name="nombres" placeholder="Ingrese su nombre" required>
+          <input class="campos" type="text" name="correo" placeholder="Ingrese su correo electronico" required>
+          <input class="campos" type="text" name="apellidos" placeholder="Ingrese su apellido">
+          <input class="campos" type="text" name="telefono" placeholder="Ingrese su telefono"required>
+        </div>
+        <div class="col">
+          <input class="campos" type="text" name="cedula" placeholder="Ingrese su numero de cedula" required>
+          <input class="campos" type="password" name="contraseña" placeholder="Ingrese su contraseña" required>
+          <input class="campos" type="password" name="contraseña2" placeholder="Confirme su contraseña" required>
+        </div>
+
+      </div>
+    </div>
+
+
+
+    <p>
+      Estoy de acuerdo con los <br>
+      <a aling="center" href="#">Terminos y Condiciones </a>
+    </p>
+    <p>
+      <input class="boton" type="submit" value="Registrar" onclick="captura()">
+    </p>
+
+    </input>
+    <a class="terminos" href="#">¿Ya tengo una cuenta?, ingresar</a>
+    </p>
+  </section>
+  <script type="text/javascript">
+    var select = document.getElementById('seleccion');
+    select.addEventListener('change',
+      function () {
+        var selectedOption = this.options[select.selectedIndex];
+        console.log(selectedOption.value + ': ' + selectedOption.text);
+      });
+  </script>
+
+
+</html>

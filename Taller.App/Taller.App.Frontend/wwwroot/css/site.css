@@ -1,0 +1,254 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Gotham;
+  src: url(GothamBold.ttf);
+}
+body {
+  font-family: Gotham;
+  background: url(fondouwu2.png);
+  background-size: cover;
+}
+.header {
+  background-color: #0b0b0b00;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.header {
+  padding-top: 8px;
+  background: url(fondouwu2.png);
+  background-size: cover;
+}
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+.logo {
+  font-size: 38px;
+  padding: 2px;
+  padding-left: 30px;
+  line-height: 40px;
+}
+.nav-menu {
+  display: flex;
+  list-style: none;
+}
+.nav-menu-item {
+  display: flex;
+  list-style: none;
+  width: 100%;
+}
+.nav-menu-item {
+  padding: 8px;
+  line-height: 40px;
+}
+#fondo {
+  background-image: url(fondouwu2.png);
+}
+.container-fluid {
+  padding-top: 10px;
+  padding-right: 5px;
+  padding-left: 20px;
+  padding-bottom: 15px;
+  margin-top: 10px;
+  margin-right: 100px;
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  width: 38rem;
+  height: 20rem;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+
+  overflow: hidden;
+}
+.container:before {
+  margin-right: 300px;
+  content: "";
+  box-shadow: inset 1000 0 2000px rgba(255, 255, 255, 0.5);
+  filter: blur(30px);
+}
+.terminos {
+  text-decoration: none;
+}
+
+.registro {
+  backdrop-filter: blur(5px);
+  margin-top: 50px;
+  margin-left: 1040px;
+  width: 400px;
+  background-color: #0b0b0b00;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+
+.registro h4 {
+  font-size: 30px;
+}
+
+.campos {
+  width: 100%;
+  background-color: #0b0b0b00;
+  margin-top: 7px;
+  padding: 6px;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.1);
+  border: none;
+  /* border: 1.5px solid #0b0b0b;*/
+  border-radius: 7px;
+}
+.boton {
+  border-radius: 10px;
+  background-color: #0b0b0b00;
+  padding: 5px;
+}
+select-container {
+  width: 400px;
+  margin: 1em auto;
+}
+
+.select-label {
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.select {
+  width: 250px;
+  position: relative;
+}
+
+.selected-option {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  border-radius: 3px;
+  border: 0.5px solid #ccc;
+}
+
+.icon,
+.select-value {
+  padding: 10px 15px;
+}
+.icon {
+  border-left: 0.5px solid #ccc;
+}
+
+.options {
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  padding: 15px 0;
+  margin-top: 5px;
+  border: 0.5px solid #ccc;
+  border-radius: 3px;
+}
+.options[data-toggle="collapsed"] {
+  display: none;
+}
+.option {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+.option:hover {
+  background-color: whitesmoke;
+}
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Gotham;
+  src: url(GothamBold.ttf);
+}
+body {
+  font-family: Gotham ;
+ 
+  background-size: cover;
+  
+
+}
+.header{
+  background-color: #0b0b0b00 ;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.header{
+  padding-top: 8px;
+
+  background-size: cover;
+
+}
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+.logo {
+  font-size: 38px;
+  padding: 2px;
+  padding-left: 30px;
+  line-height: 40px;
+
+}
+.nav-menu {
+  display: flex;
+  list-style: none;
+
+}
+.nav-menu-item {
+  display: flex;
+  list-style: none;
+  width: 100%;
+}
+.nav-menu-item {
+  padding: 8px;
+  line-height: 40px;
+}
+/*.nav-menu-link1{
+
+  padding-top: 24px;
+}
+*/
+
+
+
+.container-fluid {
+  backdrop-filter: blur(8px);
+  padding-top: 4px;
+  padding-right: 5px;
+  padding-left: 30px;
+  padding-bottom: 15px;
+  margin-top: 50px;
+  margin-right: 20px;
+  margin-right: auto;
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  width: 50rem;
+  height: 20rem;
+  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  overflow: hidden;}
+
+.titulo {
+
+  color: #3463e2;
+}
+.campos {
+  color: black;
+}
+
+.registro {
+    
+  margin-left: 300px;
+  width: 50rem;
+  margin-top: 30px;
+}
